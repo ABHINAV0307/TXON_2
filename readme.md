@@ -14,3 +14,8 @@ mathematical expression and
 The result.
 4. Clear Screen Button.
 5. Calculate button (=).
+
+
+
+https://user-images.githubusercontent.com/83867425/214479680-5bdcfcf1-788c-4377-b628-586a62970b17.mp4
+
